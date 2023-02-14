@@ -1,6 +1,9 @@
 {
     "name": "SkILLHUB",
-    "start_url": "/vikimorningbatch",
+    "short_name": "Xno",
+    "start_url": "/tiktaktoe",
+    "background_color": "red",
+    "theme_color": "coral",
     "display": "standalone",
     "icons": [
         {
