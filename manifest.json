@@ -1,7 +1,7 @@
 {
     "name": "SkILLHUB",
     "short_name": "Xno",
-    "start_url": "/tiktaktoe",
+    "start_url": "/tiktacktoe",
     "background_color": "red",
     "theme_color": "coral",
     "display": "standalone",
